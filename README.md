@@ -2,6 +2,14 @@ This project presents a comprehensive **Excel-based Sales & Business Performance
 
 The dashboard provides end-to-end insights into sales performance, customer behavior, and operational efficiency using advanced Excel features such as Pivot Tables, data visualization, and statistical analysis.
 
+# Dasboard overview
+Screenshort image - 
+<img width="1236" height="668" alt="Vrinda Store Ms Excel Dashboard" src="https://github.com/user-attachments/assets/dbce000e-e5a1-495e-b261-18a5d14ad3ca" />
+
+
+# Business Analysis Summary
+Screenshort image - <img width="1495" height="622" alt="Business Analysis Summary" src="https://github.com/user-attachments/assets/fe2ed92f-7bf5-4a03-93a9-6e124f8776bb" />
+
 🔍 Key Highlights:
 • Analyzed data across **36 States & Union Territories** with over **31,000+ orders**
 • Identified **Top 5 and Bottom 5 performing regions** for targeted decision-making
